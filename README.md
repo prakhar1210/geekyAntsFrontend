@@ -34,3 +34,27 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+# 🌐 Engineering Resource Management System - Frontend
+
+Frontend application for the Engineering Resource Management System built using **Next.js**, styled with **Tailwind CSS**, enhanced UI components via **Shadcn UI** and **MUI**.
+
+---
+
+## 📑 Tech Stack
+
+- **Next.js 14+**
+- **React 18+**
+- **Tailwind CSS v4**
+- **Shadcn UI (headless components over Radix)**
+- **Material-UI (MUI)**
+- **Axios** for API calls
+- **React Query (TanStack)** for API caching & state management (optional)
+
+---
+
+## 📂 Project Structure
+
+
